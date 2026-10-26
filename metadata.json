@@ -1,0 +1,8 @@
+{
+  "name": "MK SPORTS",
+  "description": "MK SPORTS — Premium Luxury Sportswear, Custom Apparel Manufacturing & Interactive Motion Graphics Digital Storefront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
